@@ -1,2 +1,2 @@
 # F1ESC2
-Embedded software for a remote boat
+What turned out to be after that five-day rush of USV embedded software, uploaded for demonstration purposes. 
